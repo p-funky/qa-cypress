@@ -1,0 +1,23 @@
+{
+  "name": "qa-cypress",
+  "version": "1.0.0",
+  "description": "Demonstrating some testing in cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-funky/qa-cypress.git"
+  },
+  "keywords": [],
+  "author": "Adeyinka Alabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-funky/qa-cypress/issues"
+  },
+  "dependencies": {
+    "cypress": "^5.2.0"
+  }
+}
